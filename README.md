@@ -9,7 +9,7 @@
 * 참고 링크 : https://www.kdata.or.kr/board/notice_01_view.html?field=&keyword=&type=notice&page=1&dbnum=2256&mode=detail&type=notice
 
 ### 최종 결과
-M-FIVE 3등 최우수상 수상
+M-FIVE 최우수상 수상
 
 ### 수상내역
 https://www.k-csc2020.com/p7/c1/?no=32
